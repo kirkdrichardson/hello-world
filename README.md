@@ -39,3 +39,10 @@
 <br>
 <br>
 
+**6/29/2017**
+
+>Currently researching the Wordpress JSON API for a new project. More forthcoming.
+
+<br>
+<br>
+<br>
