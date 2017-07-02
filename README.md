@@ -46,3 +46,10 @@
 <br>
 <br>
 <br>
+
+**6/30/2017**
+
+>Continuing to explore the DOM, Ajax, JQuery, and CORS. The internet is a fascinating place.
+
+<br>
+<br>
