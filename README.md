@@ -53,3 +53,11 @@
 
 <br>
 <br>
+<br>
+
+**07/03/17**
+>Progressing on my ability to manipulate the DOM usng JS & learning more about HTTP, TCP, and Unix systems.
+
+<br>
+<br>
+<br>
