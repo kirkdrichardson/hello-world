@@ -61,3 +61,6 @@
 <br>
 <br>
 <br>
+**07/05/17**
+
+>Wrapping up a thorough introduction to JQuery today. I'm eager to begin building, but I also want to take the time to understand the foundational technology of the tools I'm using. I'll do my best to balance input with output without dropping below a productivity threshold that I'll officially define before August. 
