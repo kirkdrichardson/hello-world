@@ -7,7 +7,7 @@
 
 **6/25/2017**
 
->In August, I will begin a 3-month period of concentrated study. My purpose is to obtain the fundamental skillset of a jr. full-stack web developer. This programmer's log will chart my experiences with the technolgies, their accompanying frustrations, and the daily victories of language, logic, and dumb luck. I will be using vim to write, and a local branch to push entries.
+>In August, I will begin a 3-month period of concentrated study. My purpose is to obtain the fundamental skillset of a jr. full-stack web developer. I will be following the curriculum of [Free Code Camp](https://www.freecodecamp.org/) as a primary resource. This programmer's log will chart my experiences with the technolgies, their accompanying frustrations, and the daily victories of language, logic, and dumb luck. I will be using vim to write, and a local branch to push entries.
 
 >July will be a month of preparation. My main intention is to familiarize myself with the various tools of professional development work, learn how to merge the front- and back-ends of a project, and continue translating ideas of particular interest into javascript. I have some previous background in developing websites for my own purposes, although the ones I've built from scratch are limited by my programming abilities and knowledge of frameworks. In graduate school, I used Python to collect and manipulate the data I used for my MS thesis, but the project deadlines limited my ability to go deeper into programming. Having just completed my degree and the contract work I was doing for a non-profit finance organization, I am gifting myself with these months of uninterrupted learning and personal growth.
 
@@ -64,3 +64,9 @@
 **07/05/17**
 
 >Wrapping up a thorough introduction to JQuery today. I'm eager to begin building, but I also want to take the time to understand the foundational technology of the tools I'm using. I'll do my best to balance input with output without dropping below a productivity threshold that I'll officially define before August. 
+
+<br>
+<br>
+**07/31/2017**
+
+>Tonight is the eve of my official start. I haven't tended to this log much this month, but I've been building and learning. I completed the first three basic projects: a [random quote machine](https://codepen.io/kconfig/pen/MoqNVW), a [weather app](https://codepen.io/kconfig/pen/dRwWBe), and a [Wikipedia search app](https://codepen.io/kconfig/pen/xLZBvL). I have one more basic project before starting the intermediate algorithms. I'm looking forward to getting back into more direct problem solving, although the apps have been a milestone. My understanding of how development works is much sharper. I know now that with enough research, I can build some pretty cool things, much cooler than what I've already done. The steady growth of this mode of thinking is an exciting development.  Although the projects are of a small scale, they are a hill from which larger mountains can be glimpsed and contemplated. So, one more to go. Just a slightly higher hill.
